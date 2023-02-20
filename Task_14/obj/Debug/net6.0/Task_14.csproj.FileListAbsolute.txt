@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/bin/Debug/net6.0/Task_14
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/bin/Debug/net6.0/Task_14.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/bin/Debug/net6.0/Task_14.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/bin/Debug/net6.0/Task_14.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/bin/Debug/net6.0/Task_14.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/refint/Task_14.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/Task_14.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_14/obj/Debug/net6.0/ref/Task_14.dll

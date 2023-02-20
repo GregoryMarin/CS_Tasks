@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/bin/Debug/net6.0/code_array
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/bin/Debug/net6.0/code_array.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/bin/Debug/net6.0/code_array.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/bin/Debug/net6.0/code_array.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/bin/Debug/net6.0/code_array.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/refint/code_array.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/code_array.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/code_array/obj/Debug/net6.0/ref/code_array.dll

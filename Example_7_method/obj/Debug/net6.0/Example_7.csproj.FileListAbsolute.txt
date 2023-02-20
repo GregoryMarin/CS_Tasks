@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/bin/Debug/net6.0/Example_7
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/bin/Debug/net6.0/Example_7.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/bin/Debug/net6.0/Example_7.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/bin/Debug/net6.0/Example_7.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/bin/Debug/net6.0/Example_7.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/refint/Example_7.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/Example_7.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_7/obj/Debug/net6.0/ref/Example_7.dll

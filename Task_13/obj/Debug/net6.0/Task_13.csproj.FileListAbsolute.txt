@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/bin/Debug/net6.0/Task_13
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/bin/Debug/net6.0/Task_13.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/bin/Debug/net6.0/Task_13.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/bin/Debug/net6.0/Task_13.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/bin/Debug/net6.0/Task_13.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/refint/Task_13.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/Task_13.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_13/obj/Debug/net6.0/ref/Task_13.dll

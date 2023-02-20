@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/bin/Debug/net6.0/Task37_3d_time
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/bin/Debug/net6.0/Task37_3d_time.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/bin/Debug/net6.0/Task37_3d_time.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/bin/Debug/net6.0/Task37_3d_time.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/bin/Debug/net6.0/Task37_3d_time.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/refint/Task37_3d_time.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/Task37_3d_time.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task37_3d_time/obj/Debug/net6.0/ref/Task37_3d_time.dll

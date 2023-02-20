@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/bin/Debug/net6.0/Lesson_YouTube
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/bin/Debug/net6.0/Lesson_YouTube.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/bin/Debug/net6.0/Lesson_YouTube.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/bin/Debug/net6.0/Lesson_YouTube.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/bin/Debug/net6.0/Lesson_YouTube.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/refint/Lesson_YouTube.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/Lesson_YouTube.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Lesson_YouTube/obj/Debug/net6.0/ref/Lesson_YouTube.dll

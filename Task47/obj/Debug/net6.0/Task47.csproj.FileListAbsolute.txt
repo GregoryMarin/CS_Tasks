@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/bin/Debug/net6.0/Task47
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/bin/Debug/net6.0/Task47.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/bin/Debug/net6.0/Task47.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/bin/Debug/net6.0/Task47.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/bin/Debug/net6.0/Task47.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/refint/Task47.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/Task47.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task47/obj/Debug/net6.0/ref/Task47.dll

@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/bin/Debug/net6.0/task25
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/bin/Debug/net6.0/task25.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/bin/Debug/net6.0/task25.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/bin/Debug/net6.0/task25.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/bin/Debug/net6.0/task25.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/refint/task25.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/task25.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/task25/obj/Debug/net6.0/ref/task25.dll

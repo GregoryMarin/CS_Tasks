@@ -1,0 +1,5 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task62/obj/Debug/net7.0/Task62.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task62/obj/Debug/net7.0/Task62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task62/obj/Debug/net7.0/Task62.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task62/obj/Debug/net7.0/Task62.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Task62/obj/Debug/net7.0/Task62.csproj.CoreCompileInputs.cache

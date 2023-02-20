@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/bin/Debug/net6.0/Lection3
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/bin/Debug/net6.0/Lection3.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/bin/Debug/net6.0/Lection3.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/bin/Debug/net6.0/Lection3.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/bin/Debug/net6.0/Lection3.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/refint/Lection3.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/Lection3.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/C#_someTasks/Lection3/obj/Debug/net6.0/ref/Lection3.dll

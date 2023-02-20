@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/bin/Debug/net6.0/Task_07_function
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/bin/Debug/net6.0/Task_07_function.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/bin/Debug/net6.0/Task_07_function.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/bin/Debug/net6.0/Task_07_function.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/bin/Debug/net6.0/Task_07_function.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/refint/Task_07_function.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/Task_07_function.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Task_07_function/obj/Debug/net6.0/ref/Task_07_function.dll

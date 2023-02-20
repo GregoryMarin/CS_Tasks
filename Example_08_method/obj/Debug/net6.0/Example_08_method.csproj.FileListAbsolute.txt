@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/bin/Debug/net6.0/Example_08_method
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/bin/Debug/net6.0/Example_08_method.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/bin/Debug/net6.0/Example_08_method.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/bin/Debug/net6.0/Example_08_method.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/bin/Debug/net6.0/Example_08_method.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/refint/Example_08_method.dll
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/Example_08_method.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/C#/Example_08_method/obj/Debug/net6.0/ref/Example_08_method.dll
