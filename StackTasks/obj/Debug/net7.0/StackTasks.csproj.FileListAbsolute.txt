@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/bin/Debug/net7.0/StackTasks
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/bin/Debug/net7.0/StackTasks.deps.json
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/bin/Debug/net7.0/StackTasks.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/bin/Debug/net7.0/StackTasks.dll
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/bin/Debug/net7.0/StackTasks.pdb
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.dll
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/refint/StackTasks.dll
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.pdb
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/StackTasks.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/StackTasks/obj/Debug/net7.0/ref/StackTasks.dll
