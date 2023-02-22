@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/bin/Debug/net7.0/NewProject2_BootCamp
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/bin/Debug/net7.0/NewProject2_BootCamp.deps.json
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/bin/Debug/net7.0/NewProject2_BootCamp.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/bin/Debug/net7.0/NewProject2_BootCamp.dll
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/bin/Debug/net7.0/NewProject2_BootCamp.pdb
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.dll
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/refint/NewProject2_BootCamp.dll
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.pdb
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/NewProject2_BootCamp.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Git/C#_someTasks/NewProject2_BootCamp/obj/Debug/net7.0/ref/NewProject2_BootCamp.dll
